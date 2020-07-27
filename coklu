@@ -882,3 +882,41 @@ http://stream-e30453a4b.nmbs.top/m3u/Netherland/a933b48b75.m3u8
 http://stream-e30453a4b.nmbs.top/m3u/Netherland/5dd477d4ae.m3u8
 #EXTINF:-1,Veronica TV
 http://stream-e30453a4b.nmbs.top/m3u/Netherland/51d8f796d0.m3u8
+#EXTINF:-1 ,TR: BEIN Sport 2 UHD
+http://stream99.astalavistababy.xyz/selcuksportsfutbol/bein1111/chunks.m3u8
+#EXTINF:-1 ,TR: BEIN Sport 3 UHD
+http://stream99.astalavistababy.xyz/selcuksportsfutbol/bein3333/chunks.m3u8
+#EXTINF:-1 ,TR: BEIN Sport 4 UHD
+http://stream99.astalavistababy.xyz/selcuksportsfutbol/bein4444/chunks.m3u8
+#EXTINF:-1 ,TR: TIVIBUSPOR 1 HD
+http://stream99.astalavistababy.xyz/selcuksportsfutbol/tivibu11/chunks.m3u8
+#EXTINF:-1 ,TR: TIVIBUSPOR 2 HD
+http://stream99.astalavistababy.xyz/selcuksportsfutbol/tivibu22/chunks.m3u8
+#EXTINF:-1 ,TR: BEIN MAX 2 HD
+http://stream99.astalavistababy.xyz/selcuksportsfutbol/beinmax2222/chunks.m3u8
+#EXTINF:-1 ,TR: S Sport HD1
+https://cdn.nsxmedia.net/hlslive/143.m3u8
+#EXTINF:-1 ,TR: S Sport HD2
+http://stream99.astalavistababy.xyz/selcuksportsfutbol/ssport2/chunks.m3u8
+#EXTINF:-1 ,TR: SporSmart HD
+https://cdn.nsxmedia.net/hlslive/201.m3u8
+#EXTINF:-1 ,TR: SportTV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 ,TR: beIN MOVIES TURK HD
+http://stream99.astalavistababy.xyz/selcuksportssinema/beinmoviesturk/chunks.m3u8
+#EXTINF:-1 ,TR: beIN MOVIES STARS HD
+http://stream99.astalavistababy.xyz/selcuksportssinema/beinmoviesstars/chunks.m3u8
+#EXTINF:-1 ,TR: beIN MOVIES PREMIER 2 HD
+http://stream99.astalavistababy.xyz/selcuksportssinema/beinmoviespremier2/chunks.m3u8
+#EXTINF:-1 ,TR: beIN MOVIES FAMILY HD
+http://stream99.astalavistababy.xyz/selcuksportssinema/beinmoviesfamily/chunks.m3u8
+#EXTINF:-1 ,TR: beIN MOVIES ACTION HD
+http://stream99.astalavistababy.xyz/selcuksportssinema/beinmoviesaction/chunks.m3u8
+#EXTINF:-1 ,TR: beIN SERIES VICE HD
+http://stream99.astalavistababy.xyz/selcuksportssinema/beinseriesvice/chunks.m3u8
+#EXTINF:-1 ,TR: beIN MOVIES ACTION 2 HD
+http://stream99.astalavistababy.xyz/selcuksportssinema/beinseriesdrama/chunks.m3u8
+#EXTINF:-1 ,TR: beIN SERIES COMEDY HD
+http://stream99.astalavistababy.xyz/selcuksportssinema/beinseriescomedy/chunks.m3u8
+#EXTINF:-1 ,TR: BEINSPORTS HABER HD
+http://stream99.astalavistababy.xyz/selcuksportsfutbol/beinhaber/chunks.m3u8
