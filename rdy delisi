@@ -873,7 +873,6 @@ UTV Hawler TV
 https://www.karwan1.de/karwan.tv/utv-hawler-tv/chunks.m3u8
 Zagros TV
 https://www.karwan1.de/karwan.tv/zagros-tv/chunks.m3u8
-
 Kurdmax
 http://31.14.40.139:1935/liveTrans/ngrp:myStream_all/chunklist.m3u8
 Kurdmax Pepûle
@@ -886,7 +885,6 @@ KurdMax Show
 http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/playlist.m3u8
 Kurdsat News TV
 http://mysisli.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/index.m3u8
-
 Payam TV
 https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
 Rûdaw
@@ -895,15 +893,8 @@ Speda Channel
 http://speda.teradek.live:1935/live/spedahd/chunklist.m3u8
 Zagros TV
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-
-
 Youtube Canlı Türk TV Kanalları
-
 YOUTUBE Kanal IDler 1-2 Haftaya bir degisir! live uzantili yayinlar sabittir!
-
-
-
-
 #EXTINF:0,Agro TV
 https://www.youtube.com/channel/UCuOHzqOC54YR_Db4G5p1hXA/live
 #EXTINF:0,A Para
